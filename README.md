@@ -1,2 +1,2 @@
 # ads_block
-ad blocking for google chrome
+ads blocking for google chrome
